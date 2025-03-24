@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+matplotlib
+torch
+scikit-learn
+alpha_vantage
