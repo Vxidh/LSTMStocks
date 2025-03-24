@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM
+# Stock Price Prediction using LSTMs
 
 This Streamlit app retrieves historical stock data, trains an LSTM model with PyTorch to predict future prices, and visualizes actual vs. predicted values.
 
