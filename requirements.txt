@@ -5,3 +5,4 @@ matplotlib
 torch
 scikit-learn
 alpha_vantage
+ta
