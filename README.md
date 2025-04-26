@@ -18,23 +18,3 @@ This Streamlit app retrieves historical stock data, trains an LSTM model with Py
    pip install -r requirements.txt
    ```
 
-## Usage
-
-1. Run the Streamlit app:
-   ```bash
-   streamlit run main.py
-   ```
-2. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
-3. Enter your Alpha Vantage API key (or use the default one provided)
-4. Enter a stock symbol (e.g., AAPL, GOOGL, MSFT)
-5. Adjust the model parameters as desired
-6. Click "Predict" to generate predictions
-
-## Features
-
-- LSTM-based stock price prediction
-- Technical indicators (RSI, MACD, Bollinger Bands, ATR)
-- Interactive visualizations
-- Performance metrics
-- Risk assessment
-- Buy/Sell signals with confidence threshold
